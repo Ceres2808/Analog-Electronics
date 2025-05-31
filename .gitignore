@@ -1,0 +1,4 @@
+# Ignore LTspice simulation output files
+*.raw
+*.log
+*.op.raw
