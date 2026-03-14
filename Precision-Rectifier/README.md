@@ -10,7 +10,7 @@ Ordinary diodes cannot rectify voltages below 0.6V (the cut-in voltage). The pre
 - **Full Wave Rectifier:** Converts AC to pulsating DC using both half cycles of the input, employing two diodes.
 
 ## Circuit Diagram
-![Circuit Diagram Placeholder for Precision Rectifier](Half_Wave\Half_Wave.jpg)
+![Circuit Diagram Placeholder for Precision Rectifier]([Half_Wave\Half_Wave.jpg](https://github.com/Ceres2808/Analog-Electronics/blob/main/Precision-Rectifier/Full_Wave/Full_Wave.jpg)
 ![Circuit Diagram Placeholder for Precision Rectifier](Full_Wave\Full_Wave.jpg)
 
 ## Apparatus
