@@ -10,7 +10,8 @@ Ordinary diodes cannot rectify voltages below 0.6V (the cut-in voltage). The pre
 - **Full Wave Rectifier:** Converts AC to pulsating DC using both half cycles of the input, employing two diodes.
 
 ## Circuit Diagram
-![Circuit Diagram Placeholder for Precision Rectifier](circuit_precision_rectifier.png)
+![Circuit Diagram Placeholder for Precision Rectifier](Half_Wave\Half_Wave.jpg)
+![Circuit Diagram Placeholder for Precision Rectifier](Full_Wave\Full_Wave.jpg)
 
 ## Apparatus
 | Sl. No. | Apparatus                | Range        | Quantity |
@@ -35,12 +36,18 @@ Ordinary diodes cannot rectify voltages below 0.6V (the cut-in voltage). The pre
 | 0.278  | 0.320       | 15.1           | 0.360       | 15.01          |
 
 ## Results and Conclusions
-The experiments confirm the effectiveness of both half and full wave rectifiers in converting AC signals to DC. Both designs outperform traditional diode rectifiers, validating their use in low-voltage applications and various electronic circuits[6].
+The experiments confirm the effectiveness of both half and full wave rectifiers in converting AC signals to DC. Both designs outperform traditional diode rectifiers, validating their use in low-voltage applications and various electronic circuits.
 
 ## LTspice Simulation
 
 ### Schematic
-![LTspice Schematic Placeholder for Precision Rectifier](ltspice_schematic_precision.png)
+![LTspice Schematic Placeholder for Precision Rectifier](Half_Wave\schematic.png)
+![LTspice Schematic Placeholder for Precision Rectifier](Full_Wave\schematic.png)
 
 ### Plot
-![LTspice Simulation Plot Placeholder for Precision Rectifier](ltspice_plot_precision.png)
+![LTspice Simulation Plot Placeholder for Precision Rectifier](Half_Wave\plot.png)
+![LTspice Simulation Plot Placeholder for Precision Rectifier](Full_Wave\plot.png)
+
+### Osciloscope Plot
+![DSO](Half_Wave\DSO.jpg)
+![DSO](Full_Wave\DSO.jpg)
